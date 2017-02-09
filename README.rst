@@ -8,10 +8,8 @@ cookiecutter only makes it faster!
 What's in the box
 -----------------
 
-- A Flask Python application, including handlers for session start, launch and a number of built-in ``AMAZON.``
-intents, such as ``Yes``, ``No``, and ``Help``.
-- A sample welcome intention that shows the way templating works in Flask-Ask, as well as a ``template.yaml``
-template file with some examples.
+- A Flask Python application, including handlers for session start, launch and a number of built-in ``AMAZON`` intents, such as ``Yes``, ``No``, and ``Help``.
+- A sample welcome intention that shows the way templating works in Flask-Ask, as well as a ``template.yaml`` template file with some examples.
 - A ``speech_assets`` folder, to hold your speech assets.
 - An (empty, but gitkeep'd) ``custom_slot_types`` folder to keep your list of custom slot values.
 - An ``intent_schema.json``, which you can use as your template for building up the intent schema.
@@ -30,7 +28,7 @@ To create the scaffolded project skeleton in your project, all you need to do is
 
 1. make sure you have ``cookiecutter`` installed (if not, go `here`_),
 2. get ``cookiecutter`` to pull this repo and start scaffolding by entering the following command into your shell of
-choice: ``cookiecutter gh:chrisvoncsefalvay/cookiecutter-flask-ask``,
+choice: ``cookiecutter gh:chrisvoncsefalvay/cookiecutter-flask-ask`` ,
 3. Follow instructions in your brand new repository's ``README.rst`` file.
 
 That's all!
@@ -39,9 +37,11 @@ That's all!
 Contribute
 ----------
 
-Contributions are welcome! Please use pull requests and let us know what
+Contributions are welcome! I'm also on the `Flask-Ask Gitter`_ a lot, so you are welcome to let me know just what I
+could do to make this an even better tool for Alexa developers!
 
 
 .. _here: https://github.com/audreyr/cookiecutter
 .. _John Wheeler: https://alexatutorial.com
 .. _Flask-Ask: https://alexatutorial.com/flask-ask
+.. _Flask-Ask Gitter: https://gitter.im/johnwheeler/flask-ask/
