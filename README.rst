@@ -17,8 +17,7 @@ What's in the box
 - A ``requirements.txt`` file with all you need.
 - A ``README.rst``, explaining requirements and the setup process.
 
-Short of a partridge in a pear tree, this contains everything you might need to get cracking with your very own Alexa
- skill! Read on below for directions on getting started with `Flask-Ask`_.
+Short of a partridge in a pear tree, this contains everything you might need to get cracking with your very own Alexa skill! Read on below for directions on getting started with `Flask-Ask`_.
 
 
 Setup
@@ -27,9 +26,8 @@ Setup
 To create the scaffolded project skeleton in your project, all you need to do is
 
 1. make sure you have ``cookiecutter`` installed (if not, go `here`_),
-2. get ``cookiecutter`` to pull this repo and start scaffolding by entering the following command into your shell of
-choice: ``cookiecutter gh:chrisvoncsefalvay/cookiecutter-flask-ask`` ,
-3. Follow instructions in your brand new repository's ``README.rst`` file.
+2. get ``cookiecutter`` to pull this repo and start scaffolding by entering the following command into your shell of choice: ``cookiecutter gh:chrisvoncsefalvay/cookiecutter-flask-ask`` , and
+3. follow the instructions in the ``README.rst`` file in your brand new repo!
 
 That's all!
 
