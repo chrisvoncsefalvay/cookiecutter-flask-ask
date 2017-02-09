@@ -1,0 +1,17 @@
+welcome: |
+  {{ cookiecutter.skill_name }}.
+
+welcome_re: |
+  {{ cookiecutter.skill_name }}. How may I help you?
+
+welcome_card: |
+  {{ cookiecutter.skill_name }} is an Alexa skill written by {{ cookiecutter.author_name }}. {{ cookiecutter.skill_short_description }}
+
+stop_bye: |
+  Goodbye!
+
+cancel_bye: |
+  OK, goodbye!
+
+help_text: |
+  {{ cookiecutter.skill_name }} is an Alexa skill that does things. This is where the developer would normally explain how to do them.

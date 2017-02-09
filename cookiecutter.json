@@ -1,0 +1,10 @@
+{
+  "skill_name": "My Flask-Ask skill",
+  "skill_short_description": "An Alexa Skill to do some amazing stuff.",
+  "repo_name": "my_flask_ask_skill",
+  "author_name": "Your Name",
+  "author_email_address": "your@email-address.io",
+  "github_username": "username",
+  "version": "0.1.0",
+  "port": 5000
+}
